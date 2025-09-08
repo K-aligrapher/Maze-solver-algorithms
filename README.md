@@ -73,10 +73,10 @@ npm run preview
 
 * Depth-First Search (DFS)
 * Breadth-First Search (BFS)
-* Dijkstra’s Algorithm
+* A-star Algorithm (A*)
 
-# 🌐 Live Demo
-Check it out here: [Maze Algorithm Visualizer ](https://maze-solver-algorithm-visualizer.vercel.app/)
+# 🌐 Live Demo 
+Check it out here in desktop site : [Maze Algorithm Visualizer ](https://maze-solver-algorithm-visualizer.vercel.app/)
 
 # 🤝 Contributing
 
