@@ -2,21 +2,21 @@
 ```markdown
 # 🌀 Maze Solver Algorithms
 
-A web-based visualization tool built with *React, TypeScript, Vite, and TailwindCSS* to explore and compare different maze-solving algorithms interactively.
+A web-based visualization tool built with React, TypeScript, Vite, and TailwindCSS to explore and compare different maze-solving algorithms interactively.
 
 # 🚀 Features
 - Visualize maze generation and solving step-by-step.
 - Compare algorithm performance with metrics (speed, steps, efficiency).
 - Interactive UI with controls to play, pause, and reset simulations.
-- Built with modern frontend stack: **React + Vite + TypeScript**.
-- Styled with *TailwindCSS* for responsive and clean design.
+- Built with modern frontend stack: React + Vite + TypeScript.
+- Styled with TailwindCSS for responsive and clean design.
 
 # 🛠️ Tech Stack
-- *React 18* – UI library
-- *TypeScript* – Type safety
-- *Vite* – Lightning-fast development & build tool
-- *TailwindCSS* – Utility-first CSS framework
-- *Lucide React* – Icon set
+- React 18 – UI library
+- TypeScript – Type safety
+- Vite* – Lightning-fast development & build tool
+- TailwindCSS – Utility-first CSS framework
+- Lucide React – Icon set
 
 # 📂 Project Structure
 ```
@@ -76,7 +76,7 @@ npm run preview
 * Dijkstra’s Algorithm
 
 # 🌐 Live Demo
-Check it out here: [Maze Algorithm Visualizer ](https://maze-solver-algorithms.vercel.app)
+Check it out here: [Maze Algorithm Visualizer ](https://maze-solver-algorithm-visualizer.vercel.app/)
 
 # 🤝 Contributing
 
