@@ -33,11 +33,11 @@ project/
 │   ├── main.tsx             # Entry point
 │   └── index.css            # Styles
 
-````
 
 # ▶️ Getting Started
 
 # 1. Clone the repository
+
 ```bash
 git clone https://github.com/K-aligrapher/maze-solver-algorithms.git
 cd maze-solver-algorithms/project
