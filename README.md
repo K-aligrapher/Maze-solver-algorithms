@@ -14,7 +14,7 @@ A web-based visualization tool built with React, TypeScript, Vite, and TailwindC
 # 🛠️ Tech Stack
 - React 18 – UI library
 - TypeScript – Type safety
-- Vite* – Lightning-fast development & build tool
+- Vite – Lightning-fast development & build tool
 - TailwindCSS – Utility-first CSS framework
 - Lucide React – Icon set
 
